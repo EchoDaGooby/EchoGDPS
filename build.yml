@@ -1,8 +1,0 @@
-- uses: imyanice/rust-build.action@latest
-    env:
-      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-    with:
-      tagName: app-v__VERSION__ # The action replaces __VERSION__ with your version.
-      releaseName: 'App v__VERSION__'
-      targets: 'aarch64-apple-darwin,x86_64-apple-darwin' # the two supported for now
-      srcDir: './'
