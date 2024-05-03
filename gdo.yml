@@ -1,3 +1,0 @@
-              - name: rust-build.action
-                uses: imyanice/rust-build.action@v0.1.2
-            
