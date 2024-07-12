@@ -22,3 +22,7 @@ Note: The app should be called "Echo GDPS"
 Note: do NOT open gmail to check the verify link, my gdps won't send you any email so login without "verifying"
 
 Have Fun playing! :33
+
+# EDIT (12/07/24)
+
+if you make a level that is under 10 seconds, it will be impossible to beat because of a bug (i can't fix that, sorry)
