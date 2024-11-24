@@ -1,6 +1,9 @@
 # EchoGDPS
 A Geometry Dash Private Server managed by Me, Echo :3
 
+>[!WARNING]
+> As of the 12 of July 2024 (most recent commit) the private server has shutdown for lots of problems in both hosting and playing. The gdps will be still downloadable/playable but it won't be active
+
 # How to download - Android
 - Download the "EchoGDPS.apk" file
 - Wait for it to download
